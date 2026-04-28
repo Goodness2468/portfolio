@@ -17,4 +17,4 @@ This project was created to showcase my skills as a software developer and creat
 
 ## 📧 Contact
 Email: ejukgoodness@gmail.com
-Phon: +2348118955690
+Phone: +2348118955690
